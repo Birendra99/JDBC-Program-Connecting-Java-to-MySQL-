@@ -1,0 +1,1 @@
+UPDATE table_name set column1=value1, column2=value2 WHERE some column= some_value
